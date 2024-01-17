@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "description": "A thief who enters the dreams of others to steal their secrets.",
+      "image": "/backend/public/posters/inception-poster.jpg",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "cast": ["Leonardo DiCaprio", "Ellen Page", "Tom Hardy"],
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "image": "/backend/public/posters/shawshank-poster.jpg",
+      "genres": ["Drama"],
+      "cast": ["Tim Robbins", "Morgan Freeman"],
+      "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+    },
+    {
+      "id": 3,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "image": "/backend/public/posters/godfather-poster.jpg",
+      "genres": ["Crime", "Drama"],
+      "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "trailer": "https://www.youtube.com/watch?v=sY1S34973zA"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "image": "/backend/public/posters/dark-knight-poster.jpg",
+      "genres": ["Action", "Crime", "Drama"],
+      "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "image": "/backend/public/posters/pulp-fiction-poster.jpg",
+      "genres": ["Crime", "Drama"],
+      "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+      "image": "/backend/public/posters/forrest-gump-poster.jpg",
+      "genres": ["Drama", "Romance"],
+      "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into much more.",
+      "image": "/backend/public/posters/fight-club-poster.jpg",
+      "genres": ["Drama"],
+      "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+      "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
+    },
+    {
+      "id": 8,
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "image": "/backend/public/posters/matrix-poster.jpg",
+      "genres": ["Action", "Sci-Fi"],
+      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+    },
+    {
+      "id": 9,
+      "title": "The Silence of the Lambs",
+      "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "image": "/backend/public/posters/silence-lambs-poster.jpg",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "cast": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
+      "trailer": "https://www.youtube.com/watch?v=W6Mm8Sbe__o"
+    },
+    {
+      "id": 10,
+      "title": "The Usual Suspects",
+      "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+      "image": "/backend/public/posters/usual-suspects-poster.jpg",
+      "genres": ["Crime", "Mystery", "Thriller"],
+      "cast": ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"],
+      "trailer": "https://www.youtube.com/watch?v=oiXdPolca5w"
+    },
+    {
+      "id": 11,
+      "title": "The Shining",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings.",
+      "image": "/backend/public/posters/shining-poster.jpg",
+      "genres": ["Drama", "Horror"],
+      "cast": ["Jack Nicholson", "Shelley Duvall", "Danny Lloyd"],
+      "trailer": "https://www.youtube.com/watch?v=5Cb3ik6zP2I"
+    },
+    {
+      "id": 12,
+      "title": "Inglourious Basterds",
+      "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "image": "/backend/public/posters/inglourious-basterds-poster.jpg",
+      "genres": ["Adventure", "Drama", "War"],
+      "cast": ["Brad Pitt", "Diane Kruger", "Eli Roth"],
+      "trailer": "https://www.youtube.com/watch?v=KnrRy6kSFF0"
+    },
+    {
+      "id": 13,
+      "title": "The Departed",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "image": "/backend/public/posters/departed-poster.jpg",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "cast": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+      "trailer": "https://www.youtube.com/watch?v=auYbpnEwBBg"
+    },
+    {
+      "id": 14,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "A young hobbit, Frodo, who has found the One Ring, begins his journey to Mount Doom.",
+      "image": "/backend/public/posters/lotr-fellowship-poster.jpg",
+      "genres": ["Adventure", "Drama", "Fantasy"],
+      "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+    },
+    {
+      "id": 15,
+      "title": "The Lord of the Rings: The Two Towers",
+      "description": "While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "image": "/backend/public/posters/lotr-two-towers-poster.jpg",
+      "genres": ["Action", "Adventure", "Drama"],
+      "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "trailer": "https://www.youtube.com/watch?v=LbfMDwc4azU"
+    },
+    {
+      "id": 16,
+      "title": "The Lord of the Rings: The Return of the King",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "image": "/backend/public/posters/lotr-return-king-poster.jpg",
+      "genres": ["Action", "Adventure", "Drama"],
+      "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+    },
+    {
+      "id": 17,
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "image": "/backend/public/posters/interstellar-poster.jpg",
+      "genres": ["Adventure", "Drama", "Sci-Fi"],
+      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+      "id": 18,
+      "title": "The Hobbit: An Unexpected Journey",
+      "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+      "image": "/backend/public/posters/hobbit-unexpected-journey-poster.jpg",
+      "genres": ["Adventure", "Fantasy"],
+      "cast": ["Martin Freeman", "Ian McKellen", "Richard Armitage"],
+      "trailer": "https://www.youtube.com/watch?v=SDnYMbYB-nU"
+    },
+    {
+      "id": 19,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "description": "The dwarves, along with Bilbo and Gandalf, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+      "image": "/backend/public/posters/hobbit-desolation-smaug-poster.jpg",
+      "genres": ["Adventure", "Fantasy"],
+      "cast": ["Martin Freeman", "Ian McKellen", "Richard Armitage"],
+      "trailer": "https://www.youtube.com/watch?v=fnaojlfdUbs"
+    },
+    {
+      "id": 20,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "description": "Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
+      "image": "/backend/public/posters/hobbit-battle-five-armies-poster.jpg",
+      "genres": ["Adventure", "Fantasy"],
+      "cast": ["Martin Freeman", "Ian McKellen", "Richard Armitage"],
+      "trailer": "https://www.youtube.com/watch?v=iVAgTiBrrDA"
+    }
+  ]
+  
